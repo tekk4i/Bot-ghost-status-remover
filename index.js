@@ -20,7 +20,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["discord.gg/nitrotr", "🎬➡️💍➡️✍️➡️👑"];
-const statusTypes = [ 'online', 'online'];
+const statusTypes = ['online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
